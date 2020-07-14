@@ -1,3 +1,5 @@
+[![Cover image of my macbook](https://github.com/p4vlos/p4vlos/blob/master/macbook.jpg)](p4vlos.github.io)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on Mobile App Development!
