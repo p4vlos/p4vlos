@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on Mobile App Development!
-- 🌱 I’m currently learning how to use Deep Learning Acoustic Event Detection!
+- 🔭 I’m currently working on a mobile App.
+- 🌱 I’m currently learning how to use deep learning for acoustic event detection!
 - 👯 I’m looking to collaborate on any deep learning project!
 - 💬 Ask me about anything!
 
