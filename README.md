@@ -8,6 +8,6 @@
 - 💬 Ask me about anything!
 
 <p align="center">
-  <a href="https://www.instagram.com/pavlosnic/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
+  <a href="https://www.instagram.com/pavlosnic"><img src="img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram"></a>
   <a href="https://twitter.com/pavlosnicolaou"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
 </p>
