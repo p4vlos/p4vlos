@@ -17,3 +17,9 @@
 My Scientific Papers:
 - [Google Scholar Profile](https://scholar.google.com/citations?user=OieXGCcAAAAJ&hl=en)
 
+&nbsp;
+
+![Pavlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=p4vlos&show_icons=true)
+<!--
+![Pavlos' GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=p4vlos&layput=compact&langs_count=5)
+ 
