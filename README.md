@@ -11,3 +11,9 @@
 - 🌱 I’m currently learning how to use deep learning for acoustic event detection!
 - 👯 I’m looking to collaborate on any deep learning project!
 - 💬 Ask me about anything!
+
+&nbsp;
+
+My Scientific Papers:
+- [Google Scholar Profile](https://scholar.google.com/citations?user=OieXGCcAAAAJ&hl=en)
+
