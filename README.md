@@ -7,8 +7,8 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter&logo=Twitter&logoColor=white&link=https://twitter.com/pavlosnicolaou)](https://twitter.com/pavlosnicolaou)
 
 
-- 🔭 I’m currently working on a mobile App.
-- 🌱 I’m currently learning how to use deep learning for acoustic event detection!
+- 🔭 I’m currently working ML projects!
+- 🌱 I’m currently learning how to use LLMs for real world deployments!
 - 👯 I’m looking to collaborate on any deep learning project!
 - 💬 Ask me about anything!
 
