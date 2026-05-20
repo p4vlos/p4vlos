@@ -1,4 +1,4 @@
-c### Hi there! I'm Pavlos
+### Hi there! I'm Pavlos
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/p4vlos)](https://github.com/p4vlos)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavlosnicolaou/)](https://www.linkedin.com/in/pavlosnicolaou/)
