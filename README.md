@@ -9,3 +9,6 @@
 
 My Scientific Papers:
 - [Google Scholar Profile](https://scholar.google.com/citations?user=OieXGCcAAAAJ&hl=en)
+- [ORCID](https://orcid.org/0000-0001-8520-0105)
+- [ResearchGate](https://www.researchgate.net/profile/Pavlos-Nicolaou?ev=hdr_xprf)
+- [DBLP](https://dblp.org/pid/187/7431.html)
